@@ -60,7 +60,7 @@ const Contact = () => {
                         viewport={{ once: true }}
                     >
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3731.3656835501165!2d77.3664951!3d20.7359673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd6d1676f12e8bf%3A0x82aca57080499de!2sContinental%20construction!5e0!3m2!1sen!2sin!4v1732555410460!5m2!1sen!2sin"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733.062667389521!2d77.0207637!3d20.6670293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd72dd1135fc7e5%3A0x74c9017a76898c08!2sContinental%20Builders%20%26%20Construction!5e0!3m2!1sen!2sin!4v1735497573828!5m2!1sen!2sin"
                             width="100%"
                             height="350"
                             style={{ border: 0 }}
